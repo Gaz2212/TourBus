@@ -6,6 +6,7 @@ public class DBConnection {
     
         //This class represents a connection to my database
         //This is a new comment
+        //Another new comment to push onto github
     private static Connection sConnection;
     
     public static Connection getInstance() throws ClassNotFoundException, SQLException {
