@@ -4,6 +4,8 @@ import java.sql.SQLException;
 
 public class DBConnection {
     
+        //This class represents a connection to my database
+        //This is a new comment
     private static Connection sConnection;
     
     public static Connection getInstance() throws ClassNotFoundException, SQLException {
